@@ -97,8 +97,8 @@ elif answer5 == 'а':
 print('T-95 это-')
 print('а) черепаха')
 print('б) яга')
-print('в) бабаха')
-print('г) курица')
+print('в) е100')
+print('г) кв')
 print('д) елка')
 
 answer6 = input('Ответ: ')
