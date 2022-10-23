@@ -98,7 +98,7 @@ print('T-95 это-')
 print('а) черепаха')
 print('б) яга')
 print('в) е100')
-print('г) кв')
+print('г) бревномет')
 print('д) елка')
 
 answer6 = input('Ответ: ')
