@@ -23,7 +23,7 @@ print('а) AMX 13b')
 print('б) КВ-2')
 print('в) Grille 15')
 print('г) Churchill 1')
-print('д) FV 215 (183)b')
+print('д) FV 215b (183)')
 
 
 answer2 = input('Ответ: ')
