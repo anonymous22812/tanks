@@ -1,4 +1,4 @@
-print("Седьмой дед это-")
+print("Дед это-")
 print('а)ИС-4')
 print('б)Hetzer')
 print('в) ИС-7')
@@ -19,7 +19,7 @@ elif answer1 == 'г':
     print("Иди в танки поиграй!")
 
 print('Бабаха это-')
-print('а) AMX 13b')
+print('а) AMX 13 75')
 print('б) КВ-2')
 print('в) Grille 15')
 print('г) Churchill 1')
@@ -97,7 +97,7 @@ elif answer5 == 'а':
 print('T-95 это-')
 print('а) черепаха')
 print('б) яга')
-print('в) е100')
+print('в) борщ')
 print('г) бревномет')
 print('д) елка')
 
