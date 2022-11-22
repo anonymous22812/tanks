@@ -91,9 +91,9 @@ people[0] = Person("Rogalik", 52, 47, 88)
 people[1] = Person("Churchhela", 78, 50, 91)
 people[2] = Person("Bublik", 89, 12, 36)
 actions = [Action, Action, Action]
-actions[0] = Rest("Bar", 10, 20, -10)
-actions[1] = Action("Supermarket", -40, -30, 50)
-actions[2] = Action("Factory", 30, 30, -50)
+actions[0] = Rest("Bar", -10, 20, -20)
+actions[1] = Action("Supermarket", -30, -30, -50)
+actions[2] = Action("Factory", 30, -30, 40)
 print(people[0])
 
 while True:
