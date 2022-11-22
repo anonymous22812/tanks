@@ -104,7 +104,7 @@ print('д) елка')
 answer6 = input('Ответ: ')
 
 if answer6 == 'а':
-    print(' Ты очень хороший танкист')
+    print(' Ты хороший танкист')
 elif answer6 == 'д':
     print("Иди в танки поиграй!")
 elif answer6 == 'б':
@@ -112,4 +112,44 @@ elif answer6 == 'б':
 elif answer6 == 'в':
     print("Иди в танки поиграй!")
 elif answer6 == 'г':
+    print("Иди в танки поиграй!")
+
+print('ARL-44 это-')
+print('а) VI уровень')
+print('б) V уровень')
+print('в) III уровень')
+print('г) X уровень')
+print('д) VIII уровень')
+
+answer6 = input('Ответ: ')
+
+if answer6 == 'а':
+    print(' Ты хороший танкист')
+elif answer6 == 'д':
+    print("Иди в танки поиграй!")
+elif answer6 == 'б':
+    print("Иди в танки поиграй!")
+elif answer6 == 'в':
+    print("Иди в танки поиграй!")
+elif answer6 == 'г':
+    print("Иди в танки поиграй!")
+
+print('Маus это-')
+print('а) IV уровень')
+print('б) V уровень')
+print('в) I уровень')
+print('г) X уровень')
+print('д) VII уровень')
+
+answer6 = input('Ответ: ')
+
+if answer6 == 'г':
+    print(' Ты хороший танкист')
+elif answer6 == 'д':
+    print("Иди в танки поиграй!")
+elif answer6 == 'б':
+    print("Иди в танки поиграй!")
+elif answer6 == 'в':
+    print("Иди в танки поиграй!")
+elif answer6 == 'а':
     print("Иди в танки поиграй!")
