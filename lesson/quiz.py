@@ -1,8 +1,8 @@
 print("Дед это-")
-print('а)ИС-4')
-print('б)Hetzer')
+print('а) ИС-4')
+print('б) Hetzer')
 print('в) ИС-7')
-print('г)M-4 Sherman')
+print('г) M-4 Sherman')
 print('д) т-34')
 
 answer1 = input('Ответ: ')
@@ -146,6 +146,66 @@ answer6 = input('Ответ: ')
 if answer6 == 'г':
     print(' Ты хороший танкист')
 elif answer6 == 'д':
+    print("Иди в танки поиграй!")
+elif answer6 == 'б':
+    print("Иди в танки поиграй!")
+elif answer6 == 'в':
+    print("Иди в танки поиграй!")
+elif answer6 == 'а':
+    print("Иди в танки поиграй!")
+
+print('Tortoise это-')
+print('а) IV уровень')
+print('б) VI уровень')
+print('в) IX уровень')
+print('г) III уровень')
+print('д) VII уровень')
+
+answer6 = input('Ответ: ')
+
+if answer6 == 'В':
+    print(' Ты хороший танкист')
+elif answer6 == 'д':
+    print("Иди в танки поиграй!")
+elif answer6 == 'б':
+    print("Иди в танки поиграй!")
+elif answer6 == 'Г':
+    print("Иди в танки поиграй!")
+elif answer6 == 'а':
+    print("Иди в танки поиграй!")
+
+print('СУ-85Б это-')
+print('а) I уровень')
+print('б) II уровень')
+print('в) III уровень')
+print('г) IV уровень')
+print('д) V уровень')
+
+answer6 = input('Ответ: ')
+
+if answer6 == 'г':
+    print(' Ты хороший танкист')
+elif answer6 == 'д':
+    print("Иди в танки поиграй!")
+elif answer6 == 'б':
+    print("Иди в танки поиграй!")
+elif answer6 == 'в':
+    print("Иди в танки поиграй!")
+elif answer6 == 'а':
+    print("Иди в танки поиграй!")
+
+print('AMX 12t это-')
+print('а) IV уровень')
+print('б) II уровень')
+print('в) V уровень')
+print('г) VIII уровень')
+print('д) VI уровень')
+
+answer6 = input('Ответ: ')
+
+if answer6 == 'д':
+    print(' Ты хороший танкист')
+elif answer6 == 'г':
     print("Иди в танки поиграй!")
 elif answer6 == 'б':
     print("Иди в танки поиграй!")
