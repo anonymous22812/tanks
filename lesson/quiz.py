@@ -194,12 +194,12 @@ elif answer6 == 'в':
 elif answer6 == 'а':
     print("Иди в танки поиграй!")
 
-print('AMX 12t это-')
+print('Крушитель это-')
 print('а) IV уровень')
 print('б) II уровень')
 print('в) V уровень')
 print('г) VIII уровень')
-print('д) VI уровень')
+print('д) VII уровень')
 
 answer6 = input('Ответ: ')
 
@@ -269,13 +269,107 @@ print('я) В данном списке такого нет. Дальше ==>')
 
 answer6 = input('Ответ: ')
 
-if answer6 == 'д':
-    print(' Ты хороший танкист')
-elif answer6 == 'г':
-    print("Иди в танки поиграй!")
+if answer6 == 'а':
+    print('Круто, моя Маус.')
 elif answer6 == 'б':
-    print("Иди в танки поиграй!")
+    print("Круто, моя Маус.")
 elif answer6 == 'в':
-    print("Иди в танки поиграй!")
-elif answer6 == 'а':
-    print("Иди в танки поиграй!")
+    print("Круто, моя Маус.")
+elif answer6 == 'г':
+    print("У него крутая механика. А моя Маус!")
+elif answer6 == 'д':
+    print("Круто, моя Маус.")
+elif answer6 == 'е':
+        print('Круто, моя Маус.')
+elif answer6 == 'ё':
+        print("Базука вместо пушки? Круто, моя Маус.")
+elif answer6 == 'ж':
+        print("Самый меткий ствол в игре. Круто, моя Маус.")
+elif answer6 == 'з':
+        print("Идеальное сочетание брони и хорошего орудия в оболочке ПТ-САУ. Круто, моя Маус.")
+elif answer6 == 'и':
+        print("Тапок? Круто, мой Маус!")
+elif answer6 == 'й':
+    print('Круто, я тоже его обожаю!')
+elif answer6 == 'к':
+    print("Ты знал(а) что он должен был весить 130 тонн? А еще от него собрали только ходовую в реальной жизни. Круто, моя Маус.")
+elif answer6 == 'л':
+    print("Я слышал что он имба. Круто! Мой Маус.")
+elif answer6 == 'м':
+    print("Немецкий лт. Я слышал он скилозависимый, надеюсь ты статист. Круто, моя Маус.")
+elif answer6 == 'н':
+    print("Ветка бревнометов просто имба (у самого 2 сушки есть). Круто, моя Маус.")
+elif answer6 == 'о':
+        print("Я слышал что он имба. Круто! Мой Маус.")
+elif answer6 == 'п':
+        print("Я не удивлен) Круто! Мой Маус.")
+elif answer6 == 'р':
+        print("Жалко что нанем уже мало кто играет. Круто, моя Маус.")
+elif answer6 == 'с':
+        print("Круто, моя Маус.")
+elif answer6 == 'т':
+    print('Круто, моя Маус.')
+elif answer6 == 'у':
+    print("Я не удивлен) Круто! Моя Маус.")
+elif answer6 == 'ф':
+    print("Я не удивлен) Круто! Мой Маус.")
+elif answer6 == 'х':
+    print("Я не удивлен) Круто! Моя Маус.")
+elif answer6 == 'ц':
+    print("Круто, моя Маус!")
+elif answer6 == 'ч':
+    print("Круто, моя Маус!")
+elif answer6 == 'ш':
+    print("Круто! Моя Маус.")
+elif answer6 == 'щ':
+    print("Круто, моя Маус.")
+elif answer6 == 'э':
+    print("Круто, моя Маус.")
+elif answer6 == 'ю':
+    print("Слышал, он имба. Круто, моя Маус.")
+elif answer6 == 'я':
+    print('Вот остальные')
+
+
+print('Твоя любимая десятка')
+print('а) WZ-121')
+print('б) WZ-113G FT')
+print('в) WZ-113')
+print('г) Foch 155')
+print('д) AMX 50 b')
+print('е) B-C 25t')
+print('ё) Minotauro')
+print('ж) Progetto 65')
+print('з) Kranvagn')
+print('и) 60TP Levandovskiego')
+print('й) TVP T 50/51')
+print('к) Я выбрал(а) в прошлый раз')
+
+if answer6 == 'а':
+    print('Круто, моя Маус.')
+elif answer6 == 'б':
+    print("Круто, моя Маус.")
+elif answer6 == 'в':
+    print("Круто, моя Маус.")
+elif answer6 == 'г':
+    print("Круто, моя Маус.")
+elif answer6 == 'д':
+    print("Круто, моя Маус.")
+elif answer6 == 'е':
+    print('Круто, моя Маус.')
+elif answer6 == 'ё':
+    print("Круто, моя Маус.")
+elif answer6 == 'ж':
+    print("Круто, моя Маус.")
+elif answer6 == 'з':
+    print("Круто, моя Маус.")
+elif answer6 == 'и':
+    print("Круто, моя Маус.")
+elif answer6 == 'й':
+    print('Круто, моя Маус.')
+elif answer6 == 'к':
+    print('Окей, круто')
+
+
+print("Спасибо что прошел этот тест, мне очень приятно, я старался")
+print("Удачи тебе")
